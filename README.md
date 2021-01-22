@@ -1,27 +1,27 @@
 # Group6
-Batch no.: T1.2002.E1
+Batch no.: T1.2010.E0
 
 CENTER NAME: ACE-HCMC-2-FPT
 
-Project title: Rhythm House
+Project title: Sanjalika Water World
 
-========> Group 5 <=========
+========> Group 6 <=========
 
 3 collaborators:
 
-             Pham Dang Khoa (haruyuki7121994@gmail.com) Student1256054
+             Nguyen Vo Hoang Khanh (hoangk537@gmail.com) S
 
-             Vu Quang Dat (dat.quang09@gmail.com) Student1248885
+             Tran Manh Hung(dat.quang09@gmail.com) Student1248885
              
-             Nguyen Phuoc Vinh Huy (sickmyduck23.3@gmail.com) Student1254039
+             Tran Tang Khai Hoai (sickmyduck23.3@gmail.com) Student1254039
 
 ============================
 
-eProject documentation at https://github.com/haruyuki7121994/rhythm.github.io/tree/master/documentation
+eProject documentation at 
 
 ============================
 
-eProject published at https://haruyuki7121994.github.io/Group6/
+eProject published at
 
 ============================
 

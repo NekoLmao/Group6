@@ -1,0 +1,28 @@
+* {
+    font-family: 'Montserrat', 'Roboto', sans-serif;
+}
+.navbar {
+    margin: 5px;
+    border-top: 1px solid rgb(156, 156, 156); 
+    border-bottom: 1px solid rgb(156, 156, 156); 
+    clear: both;
+}
+.navbar-nav>li>a{
+    border-radius: 5px;
+    transition: 0.5s;
+    color: darkblue;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: white;
+    color: darkblue;
+}
+.logo{
+    width: 10%;
+    display: block;
+    margin: auto;
+}
+.nav>li {
+    padding: 0px 20px 0px 55px;
+}

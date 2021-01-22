@@ -17,11 +17,11 @@ Project title: Sanjalika Water World
 
 ============================
 
-eProject documentation at 
+eProject documentation at : https://github.com/NekoLmao/Group6/tree/main/Documents
 
 ============================
 
-eProject published at
+eProject published at: https://nekolmao.github.io/Group6/
 
 ============================
 

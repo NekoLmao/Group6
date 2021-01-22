@@ -21,7 +21,7 @@ eProject documentation at
 
 ============================
 
-eProject published at
+eProject published at: https://nekolmao.github.io/Group6/
 
 ============================
 

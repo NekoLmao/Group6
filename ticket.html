@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="fontawe/css/all.css">
+    <link rel="stylesheet" href="css/login.css">
     <link href="https://fonts.googleapis.com/css?family=Raleway:400,600,700|Roboto" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300i,400,400i,500,500i" rel="stylesheet">
     <script src="js/jquery-3.5.1.min.js"></script>
@@ -39,15 +40,120 @@
             </nav>
 
         </div>
-
         <div id="main-section">
+            <section class="sign-in">
+                <div class="signin-content">
+                    <div class="signin-image">
+                        <h2 class="form-title" style="font-family:Montserrat;color:rgb(85, 85, 85) ">Standard Class</h2>
+                        <img src="images/normalTicket.jpg" alt="" style="width: 50%; display: block; margin: auto;">
+                        <a class="btn btn-primary" data-toggle="modal" href='#standardTicket'
+                            style="margin-left: 50%;">BUY NOW</a>
+                        <div class="modal fade" id="standardTicket">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"
+                                            aria-hidden="true">&times;</button>
+                                        <h4 class="modal-title" style="text-align: center;">STANDARD CLASS TICKET</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        <form action="" id="formStandardTicket" style="margin-left: 20%;">
+                                            <div class="row">
+                                                <label for="" class="col-md-4">Type of Ticket:</label>
+                                                <select name="typeTicket" id="typeTicket" class="col-md-3">
+                                                    <option value="Normal">Children</option>
+                                                    <option value="VIP">Adult</option>
+                                                </select>
+                                            </div>
+                                            <div class="row">
+                                                <label for="" class="col-md-4">Quantity:</label>
+                                                <input type="number" name="quantity" id="quantity" class="col-md-3"
+                                                    required>
+                                            </div>
+                                            <br>
+                                            <div class="row">
+                                                <input type="submit" value="Buy" class="col-md-2">
+                                                <em class="col-md-3"></em>
+                                                <input type="reset" value="Reset" class="col-md-2">
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <p style="width: 50%;">If you don't have a lot of time to have fun in Sanjalika, you should choose
+                        your own Standar ticket, which allows you to participate in 5 different games while playing on
+                        the island. The park opens from 9am so pick up the 5 games you like best in Sanjalika and have
+                        fun! There are only 5 games so choose carefully!
+                        <br>
+                        <strong>Prices: 15$</strong>
+                    </p>
+                </div>
+                <div class="signin-content">
+                    <div class="signin-image">
+                        <h2 style="font-family:Montserrat;color:rgb(85, 85, 85);margin: 5px;">VIP Class</h2>
+                        <img src="images/VIPTicket.jpg" alt="" style="width: 50%; display: block; margin: auto;">
+                        <p></p>
+
+                        <a class="btn btn-primary" data-toggle="modal" href='#vipTicket' style="margin-left: 50%;">BUY
+                            NOW</a>
+                        <div class="modal fade" id="vipTicket">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"
+                                            aria-hidden="true">&times;</button>
+                                        <h4 class="modal-title" style="text-align: center;">VIP CLASS TICKET</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        <form action="" id="formVIPTicket" style="margin-left: 20%;">
+                                            <div class="row">
+                                                <label for="" class="col-md-4">Type of Ticket:</label>
+                                                <select name="typeTicket" id="typeTicket" class="col-md-3">
+                                                    <option value="Normal">Children</option>
+                                                    <option value="VIP">Adult</option>
+                                                </select>
+                                            </div>
+                                            <div class="row">
+                                                <label for="" class="col-md-4">Quantity:</label>
+                                                <input type="number" name="quantity" id="quantity" class="col-md-3"
+                                                    required>
+                                            </div>
+                                            <br>
+                                            <div class="row">
+                                                <input type="submit" value="Buy" class="col-md-2">
+                                                <em class="col-md-3"></em>
+                                                <input type="reset" value="Reset" class="col-md-2">
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <p style="width: 50%;">Sanjalika is always crowded with visitors, so if you want to buy tickets at
+                        the counter to go out here, you have to queue in the hot weather, it's tiring and a waste of
+                        time. That is not to mention buying tickets to all the attractions in Sanjalika that can make
+                        your wallet look thinner. But don't worry, Sanjalika VIP ticket will help you to solve all the
+                        above problems. All you need to do is book your tickets at home, which will send you an
+                        e-ticket. Simply present your mobile e-voucher at any of the Sanjalika ticketing counters to
+                        redeem your sightseeing tickets and be free to explore. There's no need to queue every time you
+                        want to catch a game or visit a new destination<br>
+                        <strong>Prices: 15$</strong>
+                    </p>
+                </div>
+            </section>
         </div>
 
 
         <footer class="footer col-md-12">
             <div class="row">
                 <div class="f-left col-md-4">
-                    <p> <em class="fa fa-map-marked"></em> <strong> Address:</strong> 590 CMT8 Street District 3 Ho Chi Minh City</p>
+                    <p> <em class="fa fa-map-marked"></em> <strong> Address:</strong> 590 CMT8 Street District 3 Ho Chi
+                        Minh City</p>
                     <p> <em class="fa fa-phone"></em> <strong>Phone:</strong> (028) 274888 </P>
                     <p> <em class="fa fa-envelope"></em> <strong>Email:</strong> sanjalika@gmail.com.vn</p>
                 </div>

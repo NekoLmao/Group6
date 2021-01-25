@@ -9,11 +9,11 @@ Project title: Sanjalika Water World
 
 3 collaborators:
 
-             Nguyen Vo Hoang Khanh (hoangk537@gmail.com) S
+             Nguyen Vo Hoang Khanh (hoangk537@gmail.com) Student1280962
 
-             Tran Manh Hung(dat.quang09@gmail.com) Student1248885
+             Tran Manh Hung(manhhungtran1998@gmail.com) Student1283034
              
-             Tran Tang Khai Hoai (sickmyduck23.3@gmail.com) Student1254039
+             Tran Tang Khai Hoai (trantangkhaihoai@gmail.com) Student1280926
 
 ============================
 
